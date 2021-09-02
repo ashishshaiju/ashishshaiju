@@ -25,10 +25,3 @@
 </p>
 
 
-
-  <summary><b>:v: &nbsp;Support me</b></summary>
-  <br/>
-       <a href="https://www.buymeacoffee.com/ashishshaiju" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px !important;width: 150px !important;" ></a>
-    </a>
-
-
