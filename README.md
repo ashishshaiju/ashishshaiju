@@ -14,7 +14,7 @@
 
 
 
-  <summary><b>:standing_man: Connect with me</b></summary>
+  ### :standing_man: Connect with me
   <br/>
 <p align="left">
     <a href="https://t.me/Ashish_Shaiju">
@@ -33,11 +33,10 @@
        <img height="35px" src="https://img.icons8.com/color/48/000000/discord--v2.png"> </a>
 </p>
 
-   ---
 
-## 🎵 Now playing
+### 🎵 Now playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&cover_image=true&theme=natemoo-re)](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&redirect=true)
 
 
 ---
