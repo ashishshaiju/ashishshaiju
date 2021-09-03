@@ -1,4 +1,4 @@
-<h1 align="center">𝗛𝗲𝗹𝗹𝗼 !<img src="https://github.com/ashishshaiju/ashishshaiju/blob/Files/gifs/wave.gif"  width="30px"> &nbsp; &nbsp; 𝑰'𝒎 Ashish Shaiju</h1>
+<h1 align="center">𝗛𝗲𝗹𝗹𝗼 ! <img src="https://github.com/ashishshaiju/ashishshaiju/blob/Files/gifs/wave.gif"  width="30px"> &nbsp; 𝑰'𝒎 𝑨𝒔𝒉𝒊𝒔𝒉 𝑺𝒉𝒂𝒊𝒋𝒖</h1>
 
 <div align="center" width="50">
 
