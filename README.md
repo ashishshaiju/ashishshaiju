@@ -29,7 +29,9 @@
     <a href="https://twitter.com/ashish_shaiju">
         <img height="35px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
     </a>
-    </p>
+    <a href="https://discordapp.com/users/580739337017360410"> 
+       <img height="35px" src="https://img.icons8.com/color/48/000000/discord--v2.png"> </a>
+</p>
 
    ---
 
