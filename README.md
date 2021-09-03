@@ -30,3 +30,12 @@
         <img height="35px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
     </a>
     </p>
+
+   ---
+
+## 🎵 Now playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&redirect=true)
+
+
+---
