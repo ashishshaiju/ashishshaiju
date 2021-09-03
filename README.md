@@ -8,9 +8,7 @@
 
 ### Subscribe And Support
 
-<a href="https://bit.ly/vannisified"><img src="https://img.shields.io/badge/Vannisified-FF0202?&logo=youtube"></a>
-
-<a href="https://t.me/Vannisified"><img src="https://img.shields.io/badge/Vannisified-blue?&logo=telegram"></a> <a href="https://t.me/Vannisified_Official"><img src="https://img.shields.io/badge/Vannisified Official-blue?&logo=telegram"></a>
+<a href="https://bit.ly/vannisified"><img src="https://img.shields.io/badge/Vannisified-FF0202?&logo=youtube"></a> <a href="https://t.me/Vannisified"><img src="https://img.shields.io/badge/Vannisified-blue?&logo=telegram"></a> <a href="https://t.me/Vannisified_Official"><img src="https://img.shields.io/badge/Vannisified Official-blue?&logo=telegram"></a> <a href="https://dsc.gg/Vannisified"><img src="https://img.shields.io/badge/Vannisified-black?&logo=discord"></a>
 
 </div>
 
