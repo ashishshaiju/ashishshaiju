@@ -4,14 +4,17 @@
 <img src="https://badgen.net/badge/Python/✔/blue?icon=terminal&labelColor=EE0823">&nbsp; <img src="https://badgen.net/badge/C++/✔/blue?icon=terminal&labelColor=EE0823">
   
 <img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/Files/gifs/coding.gif" alt="coding ?">
-
+  
 ### Subscribe And Support
 
 <a href="https://bit.ly/vannisified"><img src="https://img.shields.io/badge/Vannisified-FF0202?&logo=youtube"></a> <a href="https://t.me/Vannisified"><img src="https://img.shields.io/badge/Vannisified-blue?&logo=telegram"></a> <a href="https://t.me/Vannisified_Official"><img src="https://img.shields.io/badge/Vannisified Official-blue?&logo=telegram"></a> <a href="https://dsc.gg/Vannisified"><img src="https://img.shields.io/badge/Vannisified-black?&logo=discord"></a>
 
-</div>
+</div> <a href="https://da.gd/BZvT">
 
-  ### :standing_man: Connect with me
+  ---
+</a>
+
+### 🧍‍♂️ Connect with me
  
 <p align="left">
     <a href="https://t.me/Ashish_Shaiju">
@@ -30,6 +33,7 @@
        <img height="35px" src="https://img.icons8.com/color/48/000000/discord--v2.png"> </a>
 </p>
 
+##
 
 ### 🎵 Now playing
 
