@@ -35,7 +35,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&redirect=true)
 
-<a href="https://t.me/Vannisified" >
+<a href="https://da.gd/FnQr" >
 <img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/Files/gifs/I%20dont%20know%20what%20it%20is.gif" width="25px">  
 </a>
 
