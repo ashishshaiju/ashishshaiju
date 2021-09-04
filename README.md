@@ -15,7 +15,7 @@
  
 <p align="left">
     <a href="https://t.me/Ashish_Shaiju">
-        <img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" />
+        <img height="35px" src="https://img.icons8.com/fluent/48/000000/telegram-app.png" alt="Telegram" >
     </a>
     <a href="https://facebook.com/ashishshaiju/">
         <img height="35px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" />
