@@ -37,5 +37,6 @@
 
 <a href="https://printer.discord.com" >
 <img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/Files/gifs/I%20dont%20know%20what%20it%20is.gif" width="25px" alt="don't touch here">
+</a>
 
 ---
