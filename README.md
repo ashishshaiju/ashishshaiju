@@ -10,8 +10,11 @@
 
 <a href="https://bit.ly/vannisified"><img src="https://img.shields.io/badge/Vannisified-FF0202?&logo=youtube"></a> <a href="https://t.me/Vannisified"><img src="https://img.shields.io/badge/Vannisified-blue?&logo=telegram"></a> <a href="https://t.me/Vannisified_Official"><img src="https://img.shields.io/badge/Vannisified Official-blue?&logo=telegram"></a> <a href="https://dsc.gg/Vannisified"><img src="https://img.shields.io/badge/Vannisified-black?&logo=discord"></a>
 </div> <a href="https://da.gd/BZvT">
+
   ---
+
 </a>
+
 ### 🧍‍♂️ Connect with me
  
 <p align="left">
@@ -30,10 +33,15 @@
     <a href="https://discordapp.com/users/580739337017360410"> 
        <img height="35px" src="https://img.icons8.com/color/48/000000/discord--v2.png"> </a>
 </p>
+
 ##
+
 ### 🎵 Now playing
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&redirect=true)
+
 <a href="https://printer.discord.com" >
 <img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/Files/gifs/I%20dont%20know%20what%20it%20is.gif" width="25px" alt="don't touch here">
 </a>
+
 ---
