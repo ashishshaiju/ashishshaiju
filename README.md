@@ -4,7 +4,7 @@
 <img src="https://badgen.net/badge/Python/✔/blue?icon=terminal&labelColor=EE0823">&nbsp; <img src="https://badgen.net/badge/C++/✔/blue?icon=terminal&labelColor=EE0823">
 
  <a href="https://da.gd/V8HW">
-<img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/files/gifs/coding.gif" alt="coding ?"> </a>
+<img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/files/images/Coding.png" alt="coding ?"> </a>
 
 ### Subscribe And Support
 
