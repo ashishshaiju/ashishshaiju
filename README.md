@@ -41,7 +41,7 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&redirect=true)
 
 <a href="https://printer.discord.com" >
-<img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/files/gifs/I%20dont%20know%20what%20it%20is.gif" width="25px" alt="don't touch here">
+<img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/files/gifs/I%20dont%20know%20what%20it%20is.gif" width="25px" height="25px" alt="don't touch here">
 </a>
 
 ---
