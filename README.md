@@ -1,7 +1,7 @@
 <h1 align="center">𝗛𝗲𝗹𝗹𝗼 ! <img src="https://github.com/ashishshaiju/ashishshaiju/blob/files/gifs/wave.gif"  width="30px"> &nbsp; 𝑰'𝒎 𝑨𝒔𝒉𝒊𝒔𝒉 𝑺𝒉𝒂𝒊𝒋𝒖</h1> 
 <div align="center" width="50"> 
 
-<img src="https://badgen.net/badge/Python/✔/blue?icon=terminal&labelColor=EE0823">&nbsp; <img src="https://badgen.net/badge/C++/✔/blue?icon=terminal&labelColor=EE0823">
+<img src="https://badgen.net/badge/Python/✔/blue?icon=terminal&labelColor=EE0823">&nbsp; <img src="https://badgen.net/badge/C/✔/blue?icon=terminal&labelColor=EE0823">
 
  <a href="https://da.gd/V8HW">
 <img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/files/images/Coding.png" alt="coding ?"> </a>
