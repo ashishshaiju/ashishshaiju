@@ -2,21 +2,17 @@
 <div align="center" width="50"> 
 <img src="https://badgen.net/badge/Python/✔/blue?icon=terminal&labelColor=EE0823">&nbsp; <img src="https://badgen.net/badge/C/✔/blue?icon=terminal&labelColor=EE0823">
 </div>
-<a href="https://da.gd/V8HW">
+<a href="https://reactjs.org/">
 <img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/files/images/Coding.png" alt="coding ?"> </a>
 
-### Subscribe And Support
+### 💖 Subscribe And Support
 
 <a href="https://bit.ly/vannisified"><img src="https://img.shields.io/badge/Vannisified-FF0202?&logo=youtube"></a>
 <a href="https://t.me/Vannisified"><img src="https://img.shields.io/badge/Vannisified-blue?&logo=telegram"></a>
 <a href="https://t.me/Vannisified_Official"><img src="https://img.shields.io/badge/Vannisified Official-blue?&logo=telegram"></a>
 <a href="https://dsc.gg/Vannisified"><img src="https://img.shields.io/badge/Vannisified-black?&logo=discord"></a>
-<a href="https://da.gd/BZvT">
- 
- ---
- 
-</a>
 
+---
 ### 🧍‍♂️ Connect with me
  
 <p align="left">
@@ -34,9 +30,11 @@
     </a>
     <a href="https://discordapp.com/users/580739337017360410"> 
        <img height="35px" src="https://img.icons8.com/color/48/000000/discord--v2.png"> </a>
-</p>
+</p><a href="https://da.gd/BZvT">
 
-##
+---
+
+</a>
 
 ### 🎵 Now playing
 
@@ -45,7 +43,7 @@
 ---
 
 ![Profile views](https://gpvc.arturio.dev/ashishshaiju)
----
+-
 [![An image of @ashishshaiju's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishshaiju)](https://holopin.io/@ashishshaiju)
 
  <a href="https://printer.discord.com" >
