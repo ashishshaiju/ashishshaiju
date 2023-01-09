@@ -46,3 +46,5 @@
 
 ---
 ![Profile views](https://gpvc.arturio.dev/ashishshaiju)
+---
+[![An image of @ashishshaiju's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishshaiju)](https://holopin.io/@ashishshaiju)
