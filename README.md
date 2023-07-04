@@ -41,10 +41,13 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&redirect=true)
 
 ---
+<!-- ![Profile views](https://gpvc.arturio.dev/ashishshaiju) -->
 
-![Profile views](https://gpvc.arturio.dev/ashishshaiju)
--
 [![An image of @ashishshaiju's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ashishshaiju)](https://holopin.io/@ashishshaiju)
+
+---
+### ✨ My Contributions
+![snake svg](https://github.com/ashishshaiju/ashishshaiju/blob/output/github-contribution-grid-snake.svg)
 
  <a href="https://printer.discord.com" >
 <img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/files/gifs/I%20dont%20know%20what%20it%20is.gif" width="25px" height="25px" alt="don't touch here">
