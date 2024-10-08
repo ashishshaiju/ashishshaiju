@@ -38,7 +38,7 @@
 
 ### 🎵 Now playing
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&cover_image=true&theme=novatorem)](https://spotify-github-profile.kittinanx.com/api/view?uid=527j59hf0f5lkdj7c18f8g2jz&redirect=true)
 
 ---
 <!-- ![Profile views](https://gpvc.arturio.dev/ashishshaiju) -->
