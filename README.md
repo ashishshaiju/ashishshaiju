@@ -47,7 +47,7 @@
 
 ---
 ### ✨ My Contributions
-![snake svg](https://github.com/ashishshaiju/ashishshaiju/blob/output/github-contribution-grid-snake.svg)
+![snake svg](https://github.com/ashishshaiju/ashishshaiju/blob/output/github-contribution-grid-snake-dark.svg)
 
  <a href="https://printer.discord.com" >
 <img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/files/gifs/I%20dont%20know%20what%20it%20is.gif" width="25px" height="25px" alt="don't touch here">
