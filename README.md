@@ -5,14 +5,7 @@
 <a href="https://reactjs.org/">
 <img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/files/images/Coding.png" alt="coding ?"> </a>
 
-### 💖 Subscribe And Support
 
-<a href="https://bit.ly/vannisified"><img src="https://img.shields.io/badge/Vannisified-FF0202?&logo=youtube"></a>
-<a href="https://t.me/Vannisified"><img src="https://img.shields.io/badge/Vannisified-blue?&logo=telegram"></a>
-<a href="https://t.me/Vannisified_Official"><img src="https://img.shields.io/badge/Vannisified Official-blue?&logo=telegram"></a>
-<a href="https://dsc.gg/Vannisified"><img src="https://img.shields.io/badge/Vannisified-black?&logo=discord"></a>
-
----
 ### 🧍‍♂️ Connect with me
  
 <p align="left">
@@ -33,7 +26,14 @@
 </p><a href="https://da.gd/BZvT">
 
 ---
+### 💖 Subscribe And Support
 
+<a href="https://bit.ly/vannisified"><img src="https://img.shields.io/badge/Vannisified-FF0202?&logo=youtube"></a>
+<a href="https://t.me/Vannisified"><img src="https://img.shields.io/badge/Vannisified-blue?&logo=telegram"></a>
+<a href="https://t.me/Vannisified_Official"><img src="https://img.shields.io/badge/Vannisified Official-blue?&logo=telegram"></a>
+<a href="https://dsc.gg/Vannisified"><img src="https://img.shields.io/badge/Vannisified-black?&logo=discord"></a>
+
+---
 </a>
 
 ### 🎵 Now playing
@@ -52,5 +52,9 @@
  <a href="https://printer.discord.com" >
 <img align="right" src="https://github.com/ashishshaiju/ashishshaiju/blob/files/gifs/I%20dont%20know%20what%20it%20is.gif" width="25px" height="25px" alt="don't touch here">
 </a>
+
+---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
